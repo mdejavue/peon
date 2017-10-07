@@ -1,0 +1,8 @@
+C:\Users\Mathias\Desktop\github\peon\obj\Debug\net47\peon.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\github\peon\obj\Debug\net47\peon.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\github\peon\obj\Debug\net47\peon.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\github\peon\bin\Debug\net47\peon.exe
+C:\Users\Mathias\Desktop\github\peon\bin\Debug\net47\peon.pdb
+C:\Users\Mathias\Desktop\github\peon\bin\Debug\net47\System.Windows.Forms.dll
+C:\Users\Mathias\Desktop\github\peon\obj\Debug\net47\peon.exe
+C:\Users\Mathias\Desktop\github\peon\obj\Debug\net47\peon.pdb

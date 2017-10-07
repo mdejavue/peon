@@ -1,0 +1,10 @@
+C:\Users\Mathias\Desktop\github\peon\bin\Debug\netcoreapp2.0\peon.deps.json
+C:\Users\Mathias\Desktop\github\peon\bin\Debug\netcoreapp2.0\peon.runtimeconfig.json
+C:\Users\Mathias\Desktop\github\peon\bin\Debug\netcoreapp2.0\peon.runtimeconfig.dev.json
+C:\Users\Mathias\Desktop\github\peon\bin\Debug\netcoreapp2.0\peon.dll
+C:\Users\Mathias\Desktop\github\peon\bin\Debug\netcoreapp2.0\peon.pdb
+C:\Users\Mathias\Desktop\github\peon\obj\Debug\netcoreapp2.0\peon.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\github\peon\obj\Debug\netcoreapp2.0\peon.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\github\peon\obj\Debug\netcoreapp2.0\peon.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\github\peon\obj\Debug\netcoreapp2.0\peon.dll
+C:\Users\Mathias\Desktop\github\peon\obj\Debug\netcoreapp2.0\peon.pdb

@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7": {
+      "System.Windows.Forms/4.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/System.Windows.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/System.Windows.Forms.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win7-x86": {
+      "System.Windows.Forms/4.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/System.Windows.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/System.Windows.Forms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Windows.Forms/4.0.0": {
+      "sha512": "WL3QPG1q88aIWO0JPOlkCeyNE+FK4ufSKY5j6J6qAFQyfCFiiOYxi8RAhev9H0CS/wmKbIK8qr8xZBod85oWKw==",
+      "type": "package",
+      "path": "system.windows.forms/4.0.0",
+      "files": [
+        "lib/System.Windows.Forms.dll",
+        "system.windows.forms.4.0.0.nupkg.sha512",
+        "system.windows.forms.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7": [
+      "System.Windows.Forms >= 4.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mathias\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\github\\peon\\peon.csproj",
+      "projectName": "peon",
+      "projectPath": "C:\\Users\\Mathias\\Desktop\\github\\peon\\peon.csproj",
+      "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mathias\\Desktop\\github\\peon\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Mathias\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net47"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net47": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net47": {
+        "dependencies": {
+          "System.Windows.Forms": {
+            "target": "Package",
+            "version": "4.0.0"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
